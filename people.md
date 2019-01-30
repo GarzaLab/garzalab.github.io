@@ -43,8 +43,16 @@ Alely Valencia
 
 Viviana Villicaña, B.A.
 
+### Alumni
+
+Victor Pando, M.Sc.
+
 ### Group Photos
 
 ![group photo](group1.jpg)
 
 *At the CIMAT Neuroimaging Meeting 2018 in Guanajuato, Mexico.*
+
+![group photo](group2.jpg)
+
+*At the OHBM Meeting 2016 in Vancouber, Canada.*
