@@ -18,15 +18,15 @@
 
 ![Ruth](ruth.jpg) Ruth Alcala-Lozano, M.D., M.Sc.
 
-*Researcher in Medical Sciences, Clinical Research Division, National Institute of Psychiatry, Mexico.*
+* *Researcher in Medical Sciences, Clinical Research Division, National Institute of Psychiatry, Mexico.*
 
 ![Jorge](jorge.jpg) Jorge Gonzalez-Olvera, M.D., Ph.D.
 
-*Head of Department, Clinical Research Division, National Institute of Psychiatry, Mexico.*
+* *Head of Department, Clinical Research Division, National Institute of Psychiatry, Mexico.*
 
 ![Ernesto](ernesto.jpg) Ernesto Reyes-Zamorano, Ph.D.
 
-*Assistant Profesor, Faculty of Psychology, Anahuac University, Mexico.*
+* *Assistant Profesor, Faculty of Psychology, Anahuac University, Mexico.*
 
 ### PhD students
 
@@ -45,8 +45,7 @@
 
 ![Alely](alely.jpg) Alely Valencia
 
-![Viviana](viviana.jpg) Viviana Villicaña, B.A.
-
+![Alexis](alexis.jpg) Alexis Ponce
 
 ### TMS team (students)
 
@@ -65,6 +64,10 @@
 ![Diego](diego.jpg) Diego Angeles-Valdez, B.A.
 
 ![Victor](victor.jpg) Victor Pando, M.Sc.
+
+![Viviana](viviana.jpg) Viviana Villicaña, B.A.
+
+![Pamela](pame.jpg) Pamela Palacios, M.Sc.
 
 ### Group Photos
 
