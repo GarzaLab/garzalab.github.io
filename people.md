@@ -67,6 +67,8 @@
 
 ![Viviana](viviana.jpg) Viviana Villicaña, B.A.
 
+![Josue](josue.jpg) Josue Mendoza, B.A.
+
 ![Pamela](pame.jpg) Pamela Palacios, M.Sc.
 
 ### Group Photos
