@@ -1,6 +1,6 @@
 ![GarzaLab](logo_garzalab2.png)
 
-### [People](people.md) - [Publications](pub.md) - [Projects](proj.md) - [Contact](contact.md) - [Github](https://github.com/garzalab)
+### [People](people.md) - [Publications](pub.md) - [Projects](proj1.md) - [Contact](contact.md) - [Github](https://github.com/garzalab)
 
 ## About
 
