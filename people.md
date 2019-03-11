@@ -73,6 +73,10 @@
 
 ### Group Photos
 
+![group photo](group3.jpg)
+
+*The team at the National Institute Psychiatry. From left to right, bottom: Alan, Diego, Alejandra, Thania, Viviana; top: Said, Ruth, Eduardo, Alely, Sofia.*
+
 ![group photo](group1.jpg)
 
 *At the CIMAT Neuroimaging Meeting 2018 in Guanajuato, Mexico.*
