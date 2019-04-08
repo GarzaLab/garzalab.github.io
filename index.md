@@ -4,7 +4,9 @@
 
 ## About
 
-We are a research group at the [National Institute of Psychiatry](http://www.inprf.gob.mx) in Mexico City, Mexico. Our research focuses on finding neuroimaging biomarkers of diagnosis and treatment in substance addiction and other neuropsychiatric disorders.
+We are a research group, within the [National MRI Laboratory (LANIREM)](http://www.lanirem.inb.unam.mx/), at the [Institute of Neurobiology](http://inb.unam.mx/index.html), [National Autonomous University of Mexico (UNAM)](https://www.unam.mx/) in Querétaro, Mexico. 
+
+Our research focuses on finding neuroimaging biomarkers in substance addiction and other neuropsychiatric disorders.
 
 
 ![group photo](group3.jpg)
