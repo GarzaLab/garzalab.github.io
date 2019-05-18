@@ -1,10 +1,10 @@
 [<- Back](index.md)
 
-Email: **egarza at gmail.com**
+Email: **egarza at gmail.com** & **egarza at comunidad.unam.mx**
 
 Phone:
 
-* +52 (442) 238-1038
+* Office: +52 (442) 238-1038
 * Extension (INB): 34038
 
 Work address:
