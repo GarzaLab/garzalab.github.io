@@ -11,22 +11,8 @@
 * *Visiting Senior Researcher, University of Aarhus, Denmark.*
 
 
-[Personal Website](https://egarza.github.io) - [Github](https://github.com/egarza) - [Twitter](https://twitter.com/egarzav) - [ResearchGate](https://www.researchgate.net/profile/Eduardo_Garza_Villarreal) - [Google Scholar](https://scholar.google.dk/citations?user=bX502bUAAAAJ&hl=en) - [OSF](https://osf.io/uc6aj/) - [ORCID](https://orcid.org/0000-0003-1381-8648) - [AU](http://pure.au.dk/portal/en/eduardoa@cfin.au.dk)
+[Personal Website](https://egarza.github.io) - [Github](https://github.com/egarza) - [Twitter](https://twitter.com/egarzav) - [ResearchGate](https://www.researchgate.net/profile/Eduardo_Garza_Villarreal) - [Google Scholar](https://scholar.google.com/citations?user=bX502bUAAAAJ&hl=en) - [OSF](https://osf.io/uc6aj/) - [ORCID](https://orcid.org/0000-0003-1381-8648) - [AU](http://pure.au.dk/portal/en/eduardoa@cfin.au.dk)
 
-
-### External Collaborators
-
-![Ruth](ruth.jpg) Ruth Alcala-Lozano, M.D., M.Sc.
-
-* *Researcher in Medical Sciences, Clinical Research Division, National Institute of Psychiatry, Mexico.*
-
-![Jorge](jorge.jpg) Jorge Gonzalez-Olvera, M.D., Ph.D.
-
-* *Head of Department, Clinical Research Division, National Institute of Psychiatry, Mexico.*
-
-![Ernesto](ernesto.jpg) Ernesto Reyes-Zamorano, Ph.D.
-
-* *Assistant Profesor, Faculty of Psychology, Anahuac University, Mexico.*
 
 ### PhD students
 
@@ -36,6 +22,8 @@
 
 
 ### Master students
+
+![Diego](diego.jpg) Diego Angeles-Valdez, B.A.
 
 ![Sofia](sofia.jpg) Sofia Fernandez, B.A.
 
@@ -47,23 +35,17 @@
 
 ![Alexis](alexis.jpg) Alexis Ponce
 
-### TMS team (students)
+### External students (co-supervising)
 
-![Erik](erik.jpg) Erik Morelos, M.Sc.
+![Victor](victor.jpg) Victor Pando, M.Sc.
 
-![Alejandra](ale.jpg) Alejandra Torres, B.A.
-
-### External students
+*Ph.D. Student, Center for Music in the Brain, University of Aarhus, Denmark. Supervisor: Peter Vuust*
 
 ![Sigrid](sigrid.jpg) Sigrid Lunde, M.Sc.
 
-*Ph.D. Student, Department of Psychology and Behavioural Sciences, University of Aarhus, Denmark.*
+*Ph.D. Student, Department of Psychology and Behavioural Sciences, University of Aarhus, Denmark. Supervisor: Lene Vase.*
 
-### Former students
-
-![Diego](diego.jpg) Diego Angeles-Valdez, B.A.
-
-![Victor](victor.jpg) Victor Pando, M.Sc.
+### Alumni
 
 ![Viviana](viviana.jpg) Viviana Villicaña, B.A.
 
