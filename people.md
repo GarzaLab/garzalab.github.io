@@ -16,24 +16,26 @@
 
 ### PhD students
 
-![Thania](thania.jpg) Thania Balducci, M.D., M.Sc.
+![Thania](thania.jpg) Thania Balducci, M.D., M.Sc., Medical Sciences
 
-![Said](said.jpg) Said Jimenez, M.Sc.
+![Said](said.jpg) Said Jimenez, M.Sc., Psychology
 
 
 ### Master students
 
-![Diego](diego.jpg) Diego Angeles-Valdez, B.A.
+![Diego](diego.jpg) Diego Angeles-Valdez, B.A., Neurobiology
 
-![Sofia](sofia.jpg) Sofia Fernandez, B.A.
+![Sofia](sofia.jpg) Sofia Fernandez, B.A., Neurobiology
 
-![Alan](alan.jpg) Alan Davalos, M.D.
+![Alan](alan.jpg) Alan Davalos, M.D., Medical Sciences
+
+![Ale](ale.jpg) Alejandra Lopez-Castro, M.D., Neurobiology
 
 ### Bachelor Students
 
-![Alely](alely.jpg) Alely Valencia
+![Alely](alely.jpg) Alely Valencia, Psychology
 
-![Alexis](alexis.jpg) Alexis Ponce
+![Alexis](alexis.jpg) Alexis Ponce, Psychology
 
 ### External students (co-supervising)
 
