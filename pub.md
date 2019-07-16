@@ -12,9 +12,9 @@ EA. [Functional connectivity of music-induced analgesia in fibromyalgia.](https:
 ### Peer-reviewed scientific papers
 
 ### 2019
-* Said Jiménez, Diego Angeles-Valdez, Viviana Villicaña, Ernesto Reyes-Zamorano, Ruth Alcala-Lozano, Jorge Gonzalez-Olvera, **Eduardo Garza-Villarreal***. [Machine learning consistently predicts cocaine dependence based on cognitive markers.](https://psyarxiv.com/7qsz3/) PsyArXiv. **Data Release** at [OSF](https://osf.io/m7h3x/). Accepted.
-* Lunde, S. J., Vuust, P., **Garza-Villarreal, E. A.**, & Vase, L. (2019). [Reply to Martin-Saavedra and Saade-Lemus](https://doi.org/10.1097/j.pain.0000000000001534). PAIN, 160(6), 1483. 
-* Duque X, Alcala-Lozano R, González-Olvera JJ, **Garza Villarreal EA***, Pellicer F. [Effects of childhood maltreatment on social cognition and brain functional connectivity in borderline personality disorder patients.](https://www.frontiersin.org/articles/10.3389/fpsyt.2019.00156/full). Front Psychiatry. 2019 Mar 29;10:156.
+* Said Jiménez, Diego Angeles-Valdez, Viviana Villicaña, Ernesto Reyes-Zamorano, Ruth Alcala-Lozano, Jorge Gonzalez-Olvera, Eduardo Garza-Villarreal*. [Machine learning consistently predicts cocaine dependence based on cognitive markers.](https://psyarxiv.com/7qsz3/) PsyArXiv. **Data Release** at [OSF](https://osf.io/m7h3x/). Accepted.
+* Lunde, S. J., Vuust, P., Garza-Villarreal, E. A., & Vase, L. (2019). [Reply to Martin-Saavedra and Saade-Lemus](https://doi.org/10.1097/j.pain.0000000000001534). PAIN, 160(6), 1483. 
+* Duque X, Alcala-Lozano R, González-Olvera JJ, Garza Villarreal EA*, Pellicer F. [Effects of childhood maltreatment on social cognition and brain functional connectivity in borderline personality disorder patients.](https://www.frontiersin.org/articles/10.3389/fpsyt.2019.00156/full). Front Psychiatry. 2019 Mar 29;10:156.
 
 ### 2018
 * Lunde S, Vuust P, Garza-Villarreal EA, Vase L. [Music-induced analgesia: How does it relieve pain?](https://doi.org/10.1097/j.pain.0000000000001452) PAIN, 160(5), 989.
