@@ -42,19 +42,23 @@
 
 ![LuisA](luis.jpg) Luis A. Trujillo, M.Sc., Biochemistry
 
-*Ph.D. Student, Faculty of Medicine, Universidad Autónoma de Nuevo León. Supervisor: Alberto Camacho*
+*Ph.D. Student, Faculty of Medicine, Universidad Autónoma de Nuevo León. Supervisor: [Alberto Camacho](https://scholar.google.com.mx/citations?user=4rbm3UYAAAAJ&hl=en)*
+
+![Arun](arun.jpg) Arun Garimella, Computer Sciences
+
+*M.Sc. student, International Institute of Information Technology Hyderabad, India. Supervisor: [Vinoo Alluri](https://scholar.google.co.in/citations?user=pQQpWakAAAAJ&hl=en)*
 
 ![Said](said.jpg) Said Jimenez, M.Sc., Psychology
 
-*Ph.D. Student, Faculty of Psychology, UNAM. Supervisor: Juan José Sanchez Sosa*
+*Ph.D. Student, Faculty of Psychology, UNAM. Supervisor: [Juan José Sanchez Sosa](http://psicologia.posgrado.unam.mx/juan-jose-sanchez-sosa/)*
 
 ![Victor](victor.jpg) Victor Pando, M.Sc.
 
-*Ph.D. Student, Center for Music in the Brain, University of Aarhus, Denmark. Supervisor: Peter Vuust*
+*Ph.D. Student, Center for Music in the Brain, University of Aarhus, Denmark. Supervisor: [Peter Vuust](https://scholar.google.com/citations?user=DkKlEL0AAAAJ&hl=en&oi=ao)*
 
 ![Sigrid](sigrid.jpg) Sigrid Lunde, M.Sc.
 
-*Ph.D. Student, Department of Psychology and Behavioural Sciences, University of Aarhus, Denmark. Supervisor: Lene Vase.*
+*Ph.D. Student, Department of Psychology and Behavioural Sciences, University of Aarhus, Denmark. Supervisor: [Lene Vase](http://pure.au.dk/portal/en/persons/lene-vase(efb21f77-3dc3-425c-b185-d30c3518d8ba).html).*
 
 ### Alumni
 
