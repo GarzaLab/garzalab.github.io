@@ -18,8 +18,6 @@
 
 ![Thania](thania.jpg) Thania Balducci, M.D., M.Sc., Medical Sciences
 
-![Said](said.jpg) Said Jimenez, M.Sc., Psychology
-
 
 ### Master students
 
@@ -31,6 +29,9 @@
 
 ![Ale](ale.jpg) Alejandra Lopez-Castro, M.D., Neurobiology
 
+![Dey](dey.jpg) Deyanira Muguía-Villanueva, M.D., Neurobiology
+
+
 ### Bachelor Students
 
 ![Alely](alely.jpg) Alely Valencia, Psychology
@@ -38,6 +39,14 @@
 ![Alexis](alexis.jpg) Alexis Ponce, Psychology
 
 ### External students (co-supervising)
+
+![LuisA](luis.jpg) Luis A. Trujillo, M.Sc., Biochemistry
+
+*Ph.D. Student, Faculty of Medicine, Universidad Autónoma de Nuevo León. Supervisor: Alberto Camacho*
+
+![Said](said.jpg) Said Jimenez, M.Sc., Psychology
+
+*Ph.D. Student, Faculty of Psychology, UNAM. Supervisor: Juan José Sanchez Sosa*
 
 ![Victor](victor.jpg) Victor Pando, M.Sc.
 
