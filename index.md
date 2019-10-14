@@ -10,4 +10,4 @@ We are a research group, within the [National MRI Laboratory (LANIREM)](http://w
 Our research focuses on finding neuroimaging biomarkers in substance addiction and other neuropsychiatric disorders, as well as researching new treatments. 
 
 
-![group photo](group3.jpg)
+![group photo](group4.jpg)
