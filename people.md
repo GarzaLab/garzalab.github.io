@@ -36,8 +36,6 @@
 
 ![Alely](alely.jpg) Alely Valencia, Psychology
 
-![Alexis](alexis.jpg) Alexis Ponce, Psychology
-
 ### External students (co-supervising)
 
 ![LuisA](luis.jpg) Luis A. Trujillo, M.Sc., Biochemistry
