@@ -23,13 +23,10 @@
 
 ![Diego](diego.jpg) Diego Angeles-Valdez, B.A., Neurobiology
 
-![Sofia](sofia.jpg) Sofia Fernandez, B.A., Neurobiology
-
 ![Alan](alan.jpg) Alan Davalos, M.D., Medical Sciences
 
 ![Ale](ale.jpg) Alejandra Lopez-Castro, M.D., Neurobiology
 
-![Dey](dey.jpg) Deyanira Muguía-Villanueva, M.D., Neurobiology
 
 
 ### Bachelor Students
@@ -54,11 +51,12 @@
 
 *Ph.D. Student, Center for Music in the Brain, University of Aarhus, Denmark. Supervisor: [Peter Vuust](https://scholar.google.com/citations?user=DkKlEL0AAAAJ&hl=en&oi=ao)*
 
-![Sigrid](sigrid.jpg) Sigrid Lunde, M.Sc.
-
-*Ph.D. Student, Department of Psychology and Behavioural Sciences, University of Aarhus, Denmark. Supervisor: [Lene Vase](http://pure.au.dk/portal/en/persons/lene-vase(efb21f77-3dc3-425c-b185-d30c3518d8ba).html).*
 
 ### Alumni
+
+![Sofia](sofia.jpg) Sofia Fernandez, M.Sc.
+
+![Sigrid](sigrid.jpg) Sigrid Lunde, M.Sc.
 
 ![Viviana](viviana.jpg) Viviana Villicaña, B.A.
 
