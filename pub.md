@@ -4,10 +4,15 @@
 
 ### Pre-prints (In review)
 
+* Said Jimenez, Kamila E. Sip, Roberto E. Mercadillo, Diego Angeles-Valdez, Jairo Muñoz-Delgado, Juan J. S ́anchez-Sosa and Eduardo A. Garza-Villarreal*. [Social closeness and latent commitment impact decisions to keep promises](https://psyarxiv.com/ujrdk/). 2020. Pre-registration: [https://osf.io/u97fd](https://osf.io/u97fd), Data and code: [https://osf.io/39ygk/](https://osf.io/39ygk/).
 
 
 ### Peer-reviewed scientific papers
 
+### 2020
+
+* Milham M, The PRIMatE Data Exchange (PRIME-DE) Global Collaboration Workshop and Consortium, et al. "Accelerating the evolution of nonhuman primate neuroimaging". Accepted in NEURON 2020.
+ 
 ### 2019
 * Pando-Naude VM, Barrios FA, Alcauter S, Pasaye E, Vase L, Brattico E, Vuust P, Garza-Villarreal
 EA. [Functional connectivity of music-induced analgesia in fibromyalgia.](https://doi.org/10.1101/230243). Accepted in Scientific Reports 2019. 
