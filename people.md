@@ -31,7 +31,7 @@
 
 ### Bachelor Students
 
-![Alely](alely.jpg) Alely Valencia, Psychology
+
 
 ### External students (co-supervising)
 
@@ -53,6 +53,8 @@
 
 
 ### Alumni
+
+![Alely](alely.jpg) Alely Valencia, B.A.
 
 ![Sofia](sofia.jpg) Sofia Fernandez, M.Sc.
 
