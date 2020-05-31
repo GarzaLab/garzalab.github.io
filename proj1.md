@@ -1,6 +1,9 @@
 [<- Back](index.md)
 
 ## Projects
+
+* Neuromodulation as a therapeutic intervention in substance use disorders: mechanisms and effects. 
+
 * Pathology of the function and structure of frontostriatal, mesolimbic and cerebellar circuits in murine models of substance use. Funding PAPIIT DGPA-UNAM 2020.
 
 * Brain structural and functional connectivity changes related to clinical improvement in patients with cocaine addiction after long-term treatment with TMS. **Pre-registered** in [Clinical Trials ID: NCT02986438](https://clinicaltrials.gov/ct2/show/NCT02986438). 
