@@ -7,7 +7,7 @@
 
 We are a research group, within the [National MRI Laboratory (LANIREM)](http://www.lanirem.inb.unam.mx/), at the [Institute of Neurobiology](http://inb.unam.mx/index.html), [National Autonomous University of Mexico (UNAM)](https://www.unam.mx/) in Querétaro, Mexico. 
 
-Our research focuses on finding neuroimaging biomarkers in substance use disorders and other neuropsychiatric disorders, as well as researching new treatments. 
+Our mission is to conduct rigurous basic research focused on finding behavioral, neuroimaging, and other biological biomarkers in substance use disorders and other neuropsychiatric disorders, to use this knowledge to tackle applied and clinical questions, such as researching new treatments like neuromodulation.
 
 **Lines of research**
 
