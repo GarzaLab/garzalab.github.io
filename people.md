@@ -56,15 +56,17 @@
 
 ![Alely](alely.jpg) Alely Valencia, B.A.
 
-![Sofia](sofia.jpg) Sofia Fernandez, M.Sc.
+![Sofia](sofia.jpg) Sofia Fernandez, M.Sc. *(Currently **PhD student** at Louis Collins Lab in **McGill University**)*
 
-![Sigrid](sigrid.jpg) Sigrid Lunde, M.Sc.
+![Sigrid](sigrid.jpg) Sigrid Lunde, Ph.D. *(Currently **PostDoc** at the Department of Psychology and Behavioral Sciences in **University of Aarhus**)*
 
-![Viviana](viviana.jpg) Viviana Villicaña, B.A.
+![Viviana](viviana.jpg) Viviana Villicaña, B.A. *(Currently* **MSc student** *at NeuroBIM-Bordeaux International Master of Neurosciences in* **University of Bordeaux***)*
 
-![Josue](josue.jpg) Josue Mendoza, B.A.
+![Victor](victor.jpg) Victor Pando, M.Sc. *(Currently:* **PhD student** *at Center for Music in the Brain in* **University of Aarhus***)*
 
-![Pamela](pame.jpg) Pamela Palacios, M.Sc.
+![Josue](josue.jpg) Josue Mendoza, B.A. *(Currently:* **Specialty** in Applied Statistics from the **IMAS UNAM***)*
+
+![Pamela](pame.jpg) Pamela Palacios, M.Sc. *(Currently:* **Psychological Examiner** *at* **St. Jude Children's Research Hospital Memphis, Tennessee***)*
 
 ### Group Photos
 
